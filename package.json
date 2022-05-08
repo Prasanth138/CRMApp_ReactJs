@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Prasanth138.github.io/CRMApp",
+  "homepage" : "http//Prasanth138.github.io/CRMApp_Mern",
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -21,6 +21,7 @@
     "eject": "react-scripts eject",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": [
